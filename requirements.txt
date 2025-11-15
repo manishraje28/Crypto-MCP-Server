@@ -1,0 +1,8 @@
+mcp[cli]          # official MCP Python SDK :contentReference[oaicite:0]{index=0}
+ccxt              # crypto exchange library :contentReference[oaicite:1]{index=1}
+pydantic          # for typed models
+pytest            # testing framework
+python-dotenv   # for loading environment variables from .env files
+fastapi           # HTTP API framework
+uvicorn[standard] # ASGI server
+httpx             # HTTP client for integration tests
